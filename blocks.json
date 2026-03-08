@@ -1,0 +1,7 @@
+{
+   "mobs:player_dirt": {
+      "isotropic": true,
+      "sound": "gravel",
+      "textures": "dirt"
+   }
+}
