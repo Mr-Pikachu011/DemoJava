@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Magnificents Players by Magnificent Team",
+    "name": "Magnificents Players",
+    "uuid": "e37ba352-0144-4259-be0e-7f0349bc98d3",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "description": "Magnificents Players by agnificent Team",
+      "type": "data",
+      "uuid": "e2673566-5e97-4bfe-96d6-bc5eeff60180",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "d0028be9-4177-4ea9-ae12-034ebb0c49a4",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
